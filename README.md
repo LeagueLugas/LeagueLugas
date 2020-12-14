@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ![LeagueLugas's github stats](https://github-readme-stats.vercel.app/api?username=LeagueLugas&show_icons=true&theme=dracula&custom_title=LeagueLugas%27s%20Awesome%20Status)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeagueLugas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<script src="https://gist.github.com/LeagueLugas/4f192fcac9a9b9abf258833d03559f0b.js"></script>
